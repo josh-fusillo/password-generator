@@ -1,1 +1,1 @@
-# password-generator
+# Password Generator homework assignment 3!
